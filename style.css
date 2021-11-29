@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 404 NOT FOUND */
+.error_Message{
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+    font-family: 'Inconsolata', monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+}
+
+/* Scarecrow */
+img{
+    width: 32rem;
+    height: 27rem;
+    position: absolute;
+    font-size: 50px;
+    left: 20%;
+    right: 57.21%;
+    /* top: 24.54%; */
+    top: 23%;
+    bottom: 37.11%;
+}
+
+/* I have bad news for you */
+h1{
+    position: absolute;
+    font-family: 'Space Mono', monospace;
+    font-size: 55px;
+    width: 586px;
+    height: 190px;
+    left: 1050px;
+    top: 200px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+
+/* The page you are... */
+.normal_Final_Text{
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 1050px;
+    top: 420px;
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+}
+
+/* Back to homepage */
+.btn_Rectangle{
+    position: absolute;
+    background-color: #333333;
+    width: 216px;
+    height: 60px;
+    left: 1050px;
+    top: 600px;
+}
+.btn_Text{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    left: 49px;
+    top: 19px;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+}
+
+/* created by... */
+footer{
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 830px;
+    top: 910px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #BDBDBD;
+}
+
+
+/* Media Queries */
+@media all and (max-width: 480px) {
+    .error_Message{
+        position: absolute;
+        width: 900px;
+        font-size: 60px;
+        top: 90px;
+        font-weight: bold;
+    }
+
+    img{
+        position: absolute;
+        width: 50rem;
+        height: 45rem;
+        top: 350px;
+        left: 85px;
+    }
+
+    h1{
+        position: absolute;
+        top: 1300px;
+        left: 90px;
+        width: 800px;
+        height: 350px;
+        font-size: 130px;
+        font-weight: bold;
+        line-height: 150px;
+        letter-spacing: -0.060em;
+    }
+
+    .normal_Final_Text{
+        position: absolute;
+        top: 1700px;
+        left: 90px;
+        width: 750px;
+        height: 300px;
+        font-size: 50px;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 70px;
+        letter-spacing: -0.040em;
+    }
+
+    .btn_Rectangle{
+        position: absolute;
+        top: 2050px;
+        left: 190px;
+        width: 600px;
+        height: 170px;
+    }
+
+    .btn_Text{
+        position: absolute;
+        font-size: 40px;
+        top: 70px;
+        left: 135px;
+        font-style: normal;
+        line-height: 21px;
+        letter-spacing: -0.035em;
+    }
+
+    footer{
+        position: absolute;
+        font-style: normal;
+        top: 2450px;
+        left: 100px;
+        width: 800px;
+        height: 80px;
+        font-size: 45px;
+        line-height: 17px;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+    }
+
+    h5{
+        position: absolute;
+        top: 30px;
+        left: 30px;
+    }
+}
