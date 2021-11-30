@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 NOT FOUND}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{not-found-page-fcde2.web.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{github.com/Nicooqui/devChallenges.io.git}">
       Solution
     </a>
     <span> | </span>
@@ -28,6 +28,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
+    <h1>BUILT WITH: HTML5, CSS3 and Google Fonts</h1>
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -41,9 +42,13 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  <p>You can see the demo in <a href="https://not-found-page-fcde2.web.app">THIS LINK !</a> 
 - What was your experience?
+  <p>I loved this project, this is the first time in 6 months that I really understand POSITION values :)</p>
 - What have you learned/improved?
+  <p>I learned a lot of CSS, and as you can see there's a lot of BASICS in this project, but it really helped me.</p>
 - Your wisdom? :)
+  <p>Wisdom... obey your mom and your dad, they know better. :)</p>
 
 ### Built With
 
@@ -71,5 +76,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@your-username](https://{github.com/Nicooqui})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
